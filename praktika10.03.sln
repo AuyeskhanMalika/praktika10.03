@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "praktika10.03", "praktika10.03\praktika10.03.csproj", "{8C8F0FEE-0B35-46BD-8168-67CD60AA1651}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "praktika10.03-2", "praktika10.03-2\praktika10.03-2.csproj", "{4C9EAB7C-48C3-42CE-9FA8-C1D367150C29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C8F0FEE-0B35-46BD-8168-67CD60AA1651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C8F0FEE-0B35-46BD-8168-67CD60AA1651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C8F0FEE-0B35-46BD-8168-67CD60AA1651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C8F0FEE-0B35-46BD-8168-67CD60AA1651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C9EAB7C-48C3-42CE-9FA8-C1D367150C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C9EAB7C-48C3-42CE-9FA8-C1D367150C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C9EAB7C-48C3-42CE-9FA8-C1D367150C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C9EAB7C-48C3-42CE-9FA8-C1D367150C29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {855E7C90-AC6C-4B55-9373-0E497C908F6F}
+	EndGlobalSection
+EndGlobal
